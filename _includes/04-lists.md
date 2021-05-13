@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* My Way - Frank Sinatra
+* Lose yourself - Eminem
+* Resistiré
+* Unstoppable - Sia
